@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Sign In/Sign Up UI in Flutter
 Got this amazing UI in dribble by Giga Tamarashvili. Tried to replicate this in Flutter.
@@ -14,10 +13,3 @@ Got this amazing UI in dribble by Giga Tamarashvili. Tried to replicate this in 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-=======
-# Sign In/Sign Up UI in Flutter
-
-Got this amazing UI in dribble by Giga Tamarashvili. Tried to replicate this in Flutter.
-
-
->>>>>>> 045ef321337090ac653f81c7e856707f833d8942
