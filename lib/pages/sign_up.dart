@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:login_dribble/sign_up_back.dart';
+import 'package:login_dribble/background/sign_up_back.dart';
 
 class SignUp extends StatelessWidget {
   const SignUp({Key? key}) : super(key: key);

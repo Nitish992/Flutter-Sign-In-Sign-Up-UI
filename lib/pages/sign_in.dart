@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:login_dribble/sign_in_back.dart';
-import 'package:login_dribble/sign_up.dart';
+import 'package:login_dribble/background/sign_in_back.dart';
+import 'package:login_dribble/pages/sign_up.dart';
 
 class SignInPage extends StatefulWidget {
   const SignInPage({
