@@ -1,16 +1,15 @@
-# login_dribble
 
-A new Flutter project.
+# Sign In/Sign Up UI in Flutter
+Got this amazing UI in dribble by Giga Tamarashvili. Tried to replicate this in Flutter.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+![App Screenshot](https://github.com/Nitish992/Flutter-Sign-In-Sign-Up-UI/blob/main/screenshots/Screenshot_1664531428.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Screenshot](https://github.com/Nitish992/Flutter-Sign-In-Sign-Up-UI/blob/main/screenshots/Screenshot_1664531443.png)
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
